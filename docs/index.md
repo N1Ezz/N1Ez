@@ -18,13 +18,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ```
 8.142.4.106:1999 ------ mkdocs server
-```
 
-```
 8.142.4.106:2022/images ------ online images
-```
 
-```
 8.142.4.106:2022/md ------ online markdowm files
 ```
 
